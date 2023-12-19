@@ -13,7 +13,7 @@
         Participant at: 2021 The Collider OnCampus Lean Launchapad
         </li>
         <li>
-        2020-2023(expected): PhD Candidate <a href="https://www.iqs.edu/">@IQS School of Engineering</a>. 
+        2020-2023: PhD Candidate <a href="https://www.iqs.edu/">@IQS School of Engineering</a>. 
         </li>
         <li>
         2020: Pg.C. in Technology Transfer: from Scientific Knowledge to the Market <a href="https://www.upf.edu/">@Universitat Pompeu Fabra</a>
